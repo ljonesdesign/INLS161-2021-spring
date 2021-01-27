@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Lawrence Blake Jones',
   tagline: 'INLS 161 Spring 2021 Recitation Notes',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://_username_.github.io.',
+  baseUrl: '/INLS161-2021-spring/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
