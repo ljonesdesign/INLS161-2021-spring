@@ -4,7 +4,7 @@ sidebar_label: 01-29-2021 | Command Line
 
 ---
 la
-If you have time before class, make a short post on something you read about in one of your subscription newsletters. If you have made a forum post, then you may do a starter, if you wish. (You need to first make a forum post before doing a starter.)
+If you have time before class, make a short post on something you read about in one of your subscription newsletters, or anything else that interests you. I prefer that you make a forum post before doing your starter, but you may do the forum post after doing the starter, if you wish. (A forum post must backup your starter.) 
 
 If you are having trouble finding the [Technology Review Newsletter signup](https://forms.technologyreview.com/the-download/) Subscription **<<< this link works**.
 
