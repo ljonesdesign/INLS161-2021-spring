@@ -79,7 +79,8 @@ Or maybe you notice something that inspires you to build a project, or pursue a 
 
 ## Professionalism
 VALUE ADDED ITEM | 5.5 points
+View these points as a gift&mdash;5.5 points earned just for doing what you should do anyway.
 
-Any concerns that I might have with professionalism will be handled with extreme sensitivity, care and confidentiality. You have to work as losing these points! View them as a gift. 5.5 points earned just for doing what you should do anyway. There is no submission for professionalism point.
+Any concerns that I might have with professionalism will be handled with extreme sensitivity, care and confidentiality. You have to work as losing these points!  There is no need to submit anything in assignment for professionalism points.
 
 [Characteristics of Professionalism](https://smallbusiness.chron.com/characteristics-professionalism-1209.html)
