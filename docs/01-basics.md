@@ -79,6 +79,7 @@ Or maybe you notice something that inspires you to build a project, or pursue a 
 
 ## Professionalism
 VALUE ADDED ITEM | 5.5 points
+
 View these points as a gift&mdash;5.5 points earned just for doing what you should do anyway.
 
 Any concerns that I might have with professionalism will be handled with extreme sensitivity, care and confidentiality. You will have a chance to "resubmit" for these points, if adequate time is available to do so.  There is no need to submit anything in assignment for professionalism points.
