@@ -89,13 +89,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/ljonesdesign/INLS161-2021-spring/edit/master/website/',
+            'https://github.com/ljonesdesign/INLS161-2021-spring/edit/main/docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/ljonesdesign/INLS161-2012-spring/edit/master/website/blog/',
+            'https://github.com/ljonesdesign/INLS161-2012-spring/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
