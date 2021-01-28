@@ -19,7 +19,7 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'INLS 161',
+          label: 'INLS 161 Spring 2021 Recitations',
           position: 'left',
         },
 

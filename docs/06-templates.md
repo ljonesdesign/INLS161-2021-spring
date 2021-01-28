@@ -10,7 +10,7 @@ If you are still having issues with this task, please try to get up a bit early 
 If you need a review, look over the the Sep 07 CSS class notes (link in left sidebar). We all missed this class due to the Labor Day Holiday. If you need to look at the videos again, go to the class entry [in the calendar](https://sakai.unc.edu/x/LOzYFh) to access the videos. *You will default to the current week, so go to the previous week.*
 
 :::warning
-Your home page, or initial page should always be named ```index.html```. the ```"i"``` should be lower case and html should be lowercase. Don't name it ```index1.html``` or ```2index.html```. Don't ever have a page named ```home.html```. Your **home** page **is** the ```index.html``` page. If you name it with a capital ```"I"``` like this,```Index.html```, the browser OPAL will not hide it in the directory. It will be listed like any other non ```index.html``` file.
+Your home page, or initial page should always be named ```index.html```. the ```"i"``` should be lower case and html should be lowercase. Don't name it ```index1.html``` or ```2index.html```. Don't ever have a page named ```home.html```. Your **home** page **is** the ```index.html``` page. If you name it with a capital ```"I"``` like this,```Index.html```, OPAL will not hide it in the directory. It will be listed like any other non ```index.html``` file.
 :::
 
 ## Navigation

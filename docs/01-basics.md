@@ -4,10 +4,12 @@ sidebar_label: 01-22-2021 | Introduction
 slug: /
 ---
 
-Section | day | time
---- | --- | ---
-601 | Friday | 8:00 am - 9:15 am
-603 | Friday | 10:10 am - 11:25 am
+```
+RECITATION  |  DAY     |  TIME
+------------ ---------- ---------------------
+       601  |  Friday  |   8:00 am -  9:15 am
+       603  |  Friday  |  10:10 am - 11:25 am
+```
 
 ## Introductions
 
@@ -43,7 +45,11 @@ Take a look at the navigation items in the left side bar:
 ## Forum Posts
 VALUE ADDED ITEM | .5 each
 
-**Forum posts 1-8:** You do not have to submit forum postings in the Assignment Section. Just put your forum post in the appropriate folder for your section. I will find and grade your posts from the forum. Also, you do not need to add a label or tag to your post in Sakai. The label and tag requirement was due to using a system outside of Sakai. Dr. Bergquist and I (and you) can now sort your posts by author name and find all of your posts in a sorted list.
+**Forum posts 1-8:** You do not have to submit forum postings in the Assignment Section. Just put your forum post in the appropriate folder for your section. I will find and grade your posts from the forum.
+
+:::tip
+The folder is labeled with the forum number and your name is always next to your post title. Therefore, from an information sharing standpoint, including your name and forum post number in the title is not necessary and it obfuscates what the reader most needs&mdash;the title.
+:::
 
 ## Comment on Peer's post
 VALUE ADDED ITEM | 3 points
@@ -75,13 +81,17 @@ You at a job interview:
 
 > **You:** (thinking over your posts...) Google Achieving Quantum Supremacy.....
 
-Or maybe you notice something that inspires you to build a project, or pursue a particular job, or a Masters' Degree, or Doctorate Degree.
+#### Other Things
+
+Or maybe you notice something that inspires you to build a project, or pursue a particular job, or an advanced degree.
 
 ## Professionalism
 VALUE ADDED ITEM | 5.5 points
 
-View these points as a gift&mdash;5.5 points earned just for doing what you should do anyway.
-
-Any concerns that I might have with professionalism will be handled with extreme sensitivity, care and confidentiality. You will have a chance to "resubmit" for these points, if adequate time is available to do so.  There is no need to submit anything in assignment for professionalism points.
-
 [Characteristics of Professionalism](https://smallbusiness.chron.com/characteristics-professionalism-1209.html)
+
+View these points as a gift&mdash;5.5 points earned for doing what should expected.
+
+Everything in this class is about empowering you to meet the complex demands of these very challenging times. It is my desire to treat students positively, as much as possible, and be corrective and not punitive.  I am pleased to say that it is very rare for UNC students to miss out on any professionalism points.
+
+The [Office of Student Conduct](https://studentconduct.unc.edu/honor-system) issues a NG (no grade) when a permanent grade is pending a judicial review by the Honor Court; therefore, all earned points can be viewed as professionalism grades in this situation.
