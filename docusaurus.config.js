@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Lawrence Blake Jones',
   tagline: 'INLS 161 Spring 2021 Recitation Notes',
-  url: 'https://_username_.github.io.',
+  url: 'https://ljonesdesign.github.io.',
   baseUrl: '/INLS161-2021-spring/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
