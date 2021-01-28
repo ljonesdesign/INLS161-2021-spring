@@ -90,8 +90,6 @@ VALUE ADDED ITEM | 5.5 points
 
 [Characteristics of Professionalism](https://smallbusiness.chron.com/characteristics-professionalism-1209.html)
 
-View these points as a gift&mdash;5.5 points earned for doing what should expected.
+Everything in this class is about empowering you to meet the complex demands of these very challenging times. This grade is not to cause you to worry or be anxious. Think of it as a gift. It is 5.5 points that you don't have to earn. Just be nice, kind, and communicative. Professionalism does not equal perfectionism. 
 
-Everything in this class is about empowering you to meet the complex demands of these very challenging times. It is my desire to treat students positively, as much as possible, and be corrective and not punitive.  I am pleased to say that it is very rare for UNC students to miss out on any professionalism points.
-
-The [Office of Student Conduct](https://studentconduct.unc.edu/honor-system) issues a NG (no grade) when a permanent grade is pending a judicial review by the Honor Court; therefore, all earned points can be viewed as professionalism grades in this situation.
+>1 To err is human, to forgive is divine.
