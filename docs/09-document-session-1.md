@@ -1,13 +1,15 @@
 ---
 title: Markup Session 1
 sidebar_label: 03-19-2021 | Markup 1
+
 ---
+
 :::tip
 You should read this page before class and make some choices. We will not go over this page in the recitation.
 :::
 This recitation is a blended session. I will demonstrate all of the activities on a PC because the PC version of Word is what most of you will encounter in the business world.
 
-is geared towards helping you get your project done. The lecture provides the context about why you are doing what you are doing.
+This session is geared towards helping you get your project done. The lecture provides the context about why you are doing what you are doing.
 
 Long ago I decided to demonstrate this project using [The Children's Life of the Bee](http://www.gutenberg.org/ebooks/38516), so I will continue this tradition. Dr. Bergquist will teach about document markup using various other book examples in the lecture. You should not turn in our example projects used in our online teaching materials. If you have any question about your book, you should check in with me.
 
