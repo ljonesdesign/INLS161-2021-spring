@@ -4,7 +4,7 @@ sidebar_label: 01-29-2021 | Command Line
 
 ---
 la
-If you have time before class, make a short post on something you read about in one of your subscription newsletters, or anything else that interests you. I prefer that you make a forum post before doing your starter, but you may do the forum post after doing the starter, if you wish. (A forum post must backup your starter.) 
+If you have time before class, make a short post on something you read about in one of your subscription newsletters, or anything else that interests you. I prefer that you make a forum post before doing your starter, but you may do the forum post after doing the starter, if you wish. (A forum post must backup your starter.)
 
 If you are having trouble finding the [Technology Review Newsletter signup](https://forms.technologyreview.com/the-download/) Subscription **<<< this link works**.
 
@@ -67,7 +67,7 @@ How to log in to OPAL
 [Link to lecture Command Line web page](https://ils.unc.edu/courses/2020_spring/inls161_001/02a.03.command-line.html)
 
 * Mac Users: Use Terminal
-* PC Users: Use Command Prompt or Secure Shell
+* PC Users: Use PowerShell or Command Prompt or GitBash
 
 ![password prompt image](/img/terminal-password-prompt.png)
 
