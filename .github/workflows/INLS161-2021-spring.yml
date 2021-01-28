@@ -1,10 +1,10 @@
-name: INLS161-2012-spring
+name: docusaurus deploy
 
 on:
   pull_request:
-    branches: [INLS161-2012-spring]
+    branches: [main]
   push:
-    branches: [INLS161-2012-spring]
+    branches: [main]
 
 jobs:
   checks:
