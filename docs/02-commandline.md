@@ -42,6 +42,8 @@ Open a browser and go to:
 opal.ils.unc.edu/~<onyen>
 ```  
 
+**NOTE: It looks like permissions may have already been set when your account was set up. If you don't see forbidden, then we probably will not need to set permissions.**
+
 You should see **Forbidden** message. That is good; that means you have an account, and you need to reset permissions.
 
 Darth Vader **does not** have an account on opal, so he **can't be found**: <https://opal.ils.unc.edu/~darthv>
