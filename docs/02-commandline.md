@@ -86,7 +86,7 @@ How to log in to OPAL
 
 ![password prompt image](/img/terminal-password-prompt.png)
 
-## Set Permissions
+<s>## Set Permissions
 
 ### Short Version:
 
@@ -129,7 +129,7 @@ Type
 chmod 711 .
 ```
 
-with both the space and the period. If you get a "missing operand" error, make sure you included the space and the period at the end.
+with both the space and the period. If you get a "missing operand" error, make sure you included the space and the period at the end.</s>
 
 ## Viewing Your Webpage
 
