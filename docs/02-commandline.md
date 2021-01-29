@@ -4,6 +4,10 @@ sidebar_label: 01-29-2021 | Command Line
 
 ---
 
+:::tip
+**Permissions have already been set for your account. There is no need to set permissions.**
+:::
+
 I saw a few of these double extension issues when grading the VPN submissions:
 
 ```
@@ -41,9 +45,6 @@ Open a browser and go to:
 ```
 opal.ils.unc.edu/~<onyen>
 ```  
-:::note
-**It looks like permissions may have already been set when your account was set up. If you don't see forbidden, then we probably will not need to set permissions.**
-:::
 
 You should see **Forbidden** message. That is good; that means you have an account, and you need to reset permissions.
 
