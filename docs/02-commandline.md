@@ -41,8 +41,8 @@ Open a browser and go to:
 ```
 opal.ils.unc.edu/~<onyen>
 ```  
-:::Alert
-**NOTE: It looks like permissions may have already been set when your account was set up. If you don't see forbidden, then we probably will not need to set permissions.**
+:::note
+**It looks like permissions may have already been set when your account was set up. If you don't see forbidden, then we probably will not need to set permissions.**
 :::
 
 You should see **Forbidden** message. That is good; that means you have an account, and you need to reset permissions.
