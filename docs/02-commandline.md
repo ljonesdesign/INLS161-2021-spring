@@ -86,6 +86,7 @@ How to log in to OPAL
 
 ![password prompt image](/img/terminal-password-prompt.png)
 
+
 ## Viewing Your Webpage
 
 After you have uploaded your files and set the correct permissions, your webpage will be viewable at https://opal.ils.unc.edu/~onyen/ . This will take you to the index page in your public_html folder; you can also navigate directly to other pages or subfolders you've added, such as https://opal.ils.unc.edu/~onyen/my_folder/my_page.html
