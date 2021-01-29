@@ -86,51 +86,6 @@ How to log in to OPAL
 
 ![password prompt image](/img/terminal-password-prompt.png)
 
-<s>## Set Permissions
-
-### Short Version:
-
-```
-[your_onyen@opal ~] $
-```
-Type in: ```chmod 711 .``` **DON'T FORGET THE PERIOD!**
-
-Like this:
-
-```
-[your_onyen@opal ~] $ chmod 711 .
-```
-
-Press enter. Now you will be able to see your files on the web.
-
-### Longer Version:
-
-Before you (or anyone else) can view your files in a web browser, you must change the access permissions for your home directory on opal. If these permissions are set incorrectly, anyone trying to view your webpage will see a Forbidden error rather than your content. Follow these instructions to set the correct permissions:
-
-Open an SSH connection to Opal.
-
-On Windows, you'll need to use The Command Prompt or Git BASH; on MacOS and Linux, you can open a Terminal window, enter
-
-```
-ssh your_onyen@opal.ils.unc.edu
-```
-
-and then enter your password when prompted.
-
-Once you've connected, you should see a command prompt like this:
-
-```
-[your_onyen@opal ~] $
-```
-
-Type
-
-```
-chmod 711 .
-```
-
-with both the space and the period. If you get a "missing operand" error, make sure you included the space and the period at the end.</s>
-
 ## Viewing Your Webpage
 
 After you have uploaded your files and set the correct permissions, your webpage will be viewable at https://opal.ils.unc.edu/~onyen/ . This will take you to the index page in your public_html folder; you can also navigate directly to other pages or subfolders you've added, such as https://opal.ils.unc.edu/~onyen/my_folder/my_page.html
