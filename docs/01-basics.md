@@ -7,7 +7,7 @@ slug: /
 ```
 RECITATION  |  DAY     |  TIME
 ------------ ---------- ---------------------
-       601  |  Friday  |   8:00 am -  9:15 am
+       601  |  Friday  |   8:00 am -  9:16 am
        603  |  Friday  |  10:10 am - 11:25 am
 ```
 
