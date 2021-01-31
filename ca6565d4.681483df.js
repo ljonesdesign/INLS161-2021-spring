@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[32],{101:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Blog 1","permalink":"/INLS161-2021-spring/blog/blog1"}]}')}}]);
