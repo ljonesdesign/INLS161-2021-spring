@@ -46,7 +46,8 @@ Open a browser and go to:
 opal.ils.unc.edu/~<onyen>
 ```  
 
-You should see **Forbidden** message. That is good; that means you have an account, and you need to reset permissions.
+If you see **Forbidden** message, that means you have an account, but you have permission problems. Let me know in the Zoom chat if
+this is that case for you. This semester, the permissions should have been set for you.
 
 Darth Vader **does not** have an account on opal, so he **can't be found**: <https://opal.ils.unc.edu/~darthv>
 
