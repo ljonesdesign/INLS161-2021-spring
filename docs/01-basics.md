@@ -93,3 +93,5 @@ VALUE ADDED ITEM | 5.5 points
 Everything in this class is about empowering you to meet the complex demands of these very challenging times. This grade is not to cause you to worry or be anxious. Think of it as a gift. It is 5.5 points that you don't have to earn. Just be nice, kind, and communicative. Professionalism does not equal perfectionism.
 
 > To err is human, to forgive is divine.
+
+abc 123
