@@ -4,6 +4,11 @@ sidebar_label: 01-29-2021 | Command Line
 
 ---
 
+## Panopto Videos
+[Task 01.04 Video PC](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62ced691-1057-4b97-b6a3-acc2000e9d43)
+[Task 01.04 Video Mac](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1aef65d8-0474-4751-adf7-acc00141804f)
+
+
 :::tip
 **Permissions have already been set for your account. There is no need to set permissions.**
 :::
@@ -22,6 +27,7 @@ This will not really be an issue when you are coding with a robust text editor l
 If you have time before class, make a short post on something you read about in one of your subscription newsletters, or anything else that interests you. I prefer that you make a forum post before doing your starter, but you may do the forum post after doing the starter, if you wish. (A forum post must backup your starter.) We need to try to get 2-3 short starters done each recitation class. (Otherwise, we will have too many students wanting to do them as the semester ends.)
 
 If you are having trouble finding the [Technology Review Newsletter signup](https://forms.technologyreview.com/the-download/) Subscription **<<< this link works**.
+
 
 ## Eduroam or VPN
 
