@@ -5,8 +5,8 @@ sidebar_label: 01-29-2021 | Command Line
 ---
 
 ## Panopto Videos
-[Task 01.04 Video PC](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62ced691-1057-4b97-b6a3-acc2000e9d43)
-[Task 01.04 Video Mac](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1aef65d8-0474-4751-adf7-acc00141804f)
+[Watch Task 01.04 Video PC on UNC Panopto](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62ced691-1057-4b97-b6a3-acc2000e9d43)
+[Task 01.04 Video Mac on UNC Panopto](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1aef65d8-0474-4751-adf7-acc00141804f)
 
 
 :::tip
