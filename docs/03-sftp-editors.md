@@ -10,7 +10,7 @@ Use any SFTP or text editor you like. Here are my personal preferences for teach
 
 **PC:** I like WinSCP for Windows because it is free and Open Source shareware, and has no adware. You can [download WinSCP with this link](https://winscp.net/eng/index.php). *Don't click the "get it with from Microsoft" link unless you want to help fund the open source project by paying $10.* 
 
->There is no registration code to enter for this package, and it does not have an ending trial period.
+> There is no registration code to enter for this package, and it does not have an ending trial period.
 
 **Mac:** I like Fetch for the Mac because UNC has a Use License and I have a lot of experience with using it for teaching. Here is the [UNS Software download link for Fetch](https://software.sites.unc.edu/fetch-download/). Make sure to look for this:
 
@@ -18,7 +18,7 @@ Use any SFTP or text editor you like. Here are my personal preferences for teach
 
 **Serial Number:** (The download page will show you the Serial number) 
 
->It is long and hard to type, so copy-paste into Fetch.
+> It is long and hard to type, so copy-paste into Fetch.
 
 ## Recommended Editor
 
