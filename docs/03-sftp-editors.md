@@ -14,7 +14,7 @@ Use any SFTP or text editor you like. Here are my personal preferences for teach
 
 **Serial Number Name:** The University of North Carolina at Chapel Hill
 
-**Serial Number:** (The download page will show you the Serial number. It is long so copy and paste into Fetch.)
+**Serial Number:** (The download page will show you the Serial number. It is long and hard to type, so copy-paste into Fetch.)
 
 ## Recommended Editor
 
