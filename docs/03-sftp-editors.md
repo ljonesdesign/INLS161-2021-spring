@@ -4,13 +4,17 @@ sidebar_label: 02-05-2021 | SFTP & Editors
 
 ---
 
-## Recommended SFTP Programs
+## Recommended SFTP Programs and Editor
 
-Use any SFTP program you like. Here are my personal preferences for teaching.
+Use any SFTP for text editor you like. Here are my personal preferences for teaching:
 
 **PC:** I like WinSCP for Windows because it is free and Open Source shareware, and it does not have any adware. You can [download WinSCP with this link](https://winscp.net/eng/index.php). *Don't click the "get it with from Microsoft" link unless you want to help fund the open source project by paying $10.*
 
-**Mac:** I like Fetch for the Mac because UNC has a License for Use and I have a lot of experience with using it for teaching. I will do my recitation demos and any recordings with Fetch. Here is the [download link for Fetch](https://software.sites.unc.edu/fetch-download/) 
+**Mac:** I like Fetch for the Mac because UNC has a License for Use and I have a lot of experience with using it for teaching.  Here is the [download link for Fetch](https://software.sites.unc.edu/fetch-download/) 
+
+## Recommended Editor
+
+**PC and Mac:** [VScode](https://code.visualstudio.com/)
 
 ## Starters
 
