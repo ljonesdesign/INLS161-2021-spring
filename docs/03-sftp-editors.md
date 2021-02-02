@@ -22,9 +22,7 @@ Use any SFTP you like. Here are my personal preferences for teaching:
 
 ## Recommended Editor
 
-Use any Editor you like. Here are my personal preference for teaching:
-
-**PC and Mac:** [Visual Studio Code](https://code.visualstudio.com/)
+Use any Editor you like. My personal preference for teaching for both **PC and Mac** is [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Starters
 
