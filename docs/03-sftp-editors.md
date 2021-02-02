@@ -4,9 +4,9 @@ sidebar_label: 02-05-2021 | SFTP & Editors
 
 ---
 
-## Recommended SFTP Programs and Editor
+## Recommended SFTP Programs
 
-Use any SFTP or text editor you like. Here are my personal preferences for teaching:
+Use any SFTP you like. Here are my personal preferences for teaching:
 
 **PC:** I like WinSCP for Windows because it is free and Open Source shareware, and has no adware. You can [download WinSCP with this link](https://winscp.net/eng/index.php). *Don't click the "get it with from Microsoft" link unless you want to help fund the open source project by paying $10.* 
 
@@ -21,6 +21,8 @@ Use any SFTP or text editor you like. Here are my personal preferences for teach
 > It is long and hard to type, so copy-paste into Fetch.
 
 ## Recommended Editor
+
+Use any Editor you like. Here are my personal preference for teaching:
 
 **PC and Mac:** [Visual Studio Code](https://code.visualstudio.com/)
 
