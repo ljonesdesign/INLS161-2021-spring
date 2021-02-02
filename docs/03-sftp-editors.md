@@ -12,7 +12,7 @@ Use any SFTP you like. Here are my personal preferences for teaching:
 
 > There is no registration code to enter for this package, and it does not have an ending trial period.
 
-**Mac:** I like Fetch for the Mac because UNC has a Use License and I have a lot of experience with using it for teaching. Here is the [UNS Software download link for Fetch](https://software.sites.unc.edu/fetch-download/). Make sure to look for this:
+**Mac:** I like Fetch for the Mac because UNC has a Use License and I have a lot of experience with using it for teaching. Here is the [UNC Software download link for Fetch](https://software.sites.unc.edu/fetch-download/). Make sure to look for this:
 
 **Serial Number Name:** The University of North Carolina at Chapel Hill
 
