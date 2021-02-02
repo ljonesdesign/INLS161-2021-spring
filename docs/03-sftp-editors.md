@@ -13,11 +13,12 @@ Use any SFTP or text editor you like. Here are my personal preferences for teach
 **Mac:** I like Fetch for the Mac because UNC has a Use License and I have a lot of experience with using it for teaching. Here is the [UNS Software download link for Fetch](https://software.sites.unc.edu/fetch-download/). Make sure to look for this:
 
 **Serial Number Name:** The University of North Carolina at Chapel Hill
+
 **Serial Number:** (The download page will show you the Serial number. It is long so copy and paste into Fetch.)
 
 ## Recommended Editor
 
-**PC and Mac:** [VScode](https://code.visualstudio.com/)
+**PC and Mac:** [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Starters
 
