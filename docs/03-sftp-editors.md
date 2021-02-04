@@ -4,6 +4,9 @@ sidebar_label: 02-05-2021 | SFTP & Editors
 
 ---
 
+## Panopto Update
+I discovered at the very end of last semester that private one-to-one Panopto feedback videos were **extremely** effective. It's like office hours without having to set times. It's super flexible. So I want to spend a little bit of time demonstrating the Panopto interface and make sure you all know how to login here [https://uncch.hosted.panopto.com/](https://uncch.hosted.panopto.com) and see your shared folders.
+
 ## Recommended SFTP Programs
 
 Use any SFTP you like. Here are my personal preferences for teaching:
