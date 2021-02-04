@@ -24,6 +24,8 @@ Use any SFTP you like. Here are my personal preferences for teaching:
 
 > It is long and hard to type, so copy-paste into Fetch.
 
+[Here is a link to a Fetch Presentation on Google Slides](https://docs.google.com/presentation/d/1QGQjVMvFS3-lIgMI4BoESXnRnmit-cV2_5p-5dYlFhU/edit?usp=sharing)
+
 ## Recommended Editor
 
 Use any Editor you like. My personal preference for teaching for both **PC and Mac** is [Visual Studio Code](https://code.visualstudio.com/)
