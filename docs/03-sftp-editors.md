@@ -24,7 +24,16 @@ Use any SFTP you like. Here are my personal preferences for teaching:
 
 > It is long and hard to type, so copy-paste into Fetch.
 
-[Here is a link to a Fetch Presentation on Google Slides](https://docs.google.com/presentation/d/1QGQjVMvFS3-lIgMI4BoESXnRnmit-cV2_5p-5dYlFhU/edit?usp=sharing)
+
+# SFTP Process
+
+Click the Fetch Mac Graphic below to see how the SFTP process works. This presentation will be helpful to review even if you are using a different Mac SFTP client app or if you are using a PC app. 
+
+:::tip
+If you are not using Fetch or you are using a PC, skip to [slide 16](https://docs.google.com/presentation/d/1QGQjVMvFS3-lIgMI4BoESXnRnmit-cV2_5p-5dYlFhU/edit#slide=id.gbc088c0537_2_239).
+:::
+
+[![Here is a link to a Fetch Presentation on Google Slides](/img/fetch-google-slides-thumbnail.png)](https://docs.google.com/presentation/d/1QGQjVMvFS3-lIgMI4BoESXnRnmit-cV2_5p-5dYlFhU/edit?usp=sharing)
 
 ## Recommended Editor
 

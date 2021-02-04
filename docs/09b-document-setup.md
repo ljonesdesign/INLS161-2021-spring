@@ -48,7 +48,7 @@ Using your find and replace tools, reformat the e-book to eliminate unnecessary 
 
 *The Video makes reference to the slide show below as being on an Exercise 1 page. That page was confusing, and has been deleted. The link to the mentioned slide show is directly below this line.*
 
-![[slideshow](img/searchreplaceslideshow.png)](https://ils.unc.edu/courses/2019_spring/inls161_001/03/01d-documents-exercise-1-slides.html)
+[![slideshow](/img/search-replace-slide-show.png)](https://ils.unc.edu/courses/2019_spring/inls161_001/03/01d-documents-exercise-1-slides.html)
 
 ## Task 3.04 Page Setup
 
