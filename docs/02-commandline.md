@@ -4,14 +4,17 @@ sidebar_label: 01-29-2021 | Command Line
 
 ---
 
-## Panopto Videos
-* [Task 01.04 Create a Directory (PC) on UNC Panopto](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62ced691-1057-4b97-b6a3-acc2000e9d43)
-* [Task 01.04  Create a Directory (Mac) on UNC Panopto](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1aef65d8-0474-4751-adf7-acc00141804f)
-
-# This Class Recording 
-I had an issue recording the 10:10 am class because I recorded on the wrong computer when I was working online with two computers. So it has major problems. However, if you missed either class and you want to see all that was covered, The 8:00 am class is available to view. 
+## This Session has been completed; Class Recording details:
+I had an issue recording the 10:10 am class because I recorded on the wrong computer when I was working online with two computers. So it has major problems. However, if you missed either class and you want to see all that was covered, The 8:00 am class is available to view.
 
 * [01/29/21 8:00 am Command Line Recitation](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c7a49e6c-c5b9-4cf3-bb9f-acbf00f9e801)
+
+## Panopto Videos 
+
+These videos are a bit more polished than the class recordings and are more to the point in helping you get your Task 01.04 completed:
+
+* [Task 01.04 Create a Directory (PC) on UNC Panopto](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62ced691-1057-4b97-b6a3-acc2000e9d43)
+* [Task 01.04  Create a Directory (Mac) on UNC Panopto](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1aef65d8-0474-4751-adf7-acc00141804f)
 
 :::tip
 **Permissions have already been set for your account. There is no need to set permissions.**
