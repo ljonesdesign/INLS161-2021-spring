@@ -18,7 +18,7 @@ Use any SFTP you like. Here are my personal preferences for teaching:
 
 **Mac:** I like Fetch for the Mac because UNC has a Use License and I have a lot of experience with using it for teaching. Here is the [UNC Software download link for Fetch](https://software.sites.unc.edu/fetch-download/). Make sure to look for this:
 
-**Serial Number Name:** The University of North Carolina at Chapel Hill
+**Serial Number Name:** UNC-Chapel Hill
 
 **Serial Number:** (The download page will show you the Serial number) 
 
