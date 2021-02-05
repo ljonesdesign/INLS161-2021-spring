@@ -37,7 +37,7 @@ If you are not using Fetch or you are using a PC, skip to [slide 16](https://doc
 
 ## Recommended Editor
 
-Use any Editor you like. My personal preference for teaching for both **PC and Mac** is [Visual Studio Code](https://code.visualstudio.com/)
+Use any Editor you like. My personal preference for teaching for both **PC and Mac** was [Visual Studio Code](https://code.visualstudio.com/) but the new update is too confusing for beginners, so I will be using [Brackets](http://brackets.io/). 
 
 ## Starters
 
