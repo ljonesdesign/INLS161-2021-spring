@@ -13,6 +13,7 @@ This is the basic page that we hard coded last week. We did it line by line in n
 <!DOCTYPE html>
 <html lang="en">
   <head>
+   <meta charset="utf-8"> <!-- this is now required for validation -->
    <title>Task 02.01 Assignment</title>
   </head>
   <body>
