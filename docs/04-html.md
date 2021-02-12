@@ -3,8 +3,8 @@ title: HTML
 sidebar_label: 02-12-2021 | HTML
 ---
 
-## Post Class recordings
-Post class recordings of this recitation will be placed into the folder that I have shared with you on Panopto: <https://uncch.hosted.panopto.com/>
+## Class recordings
+Recordings of this recitation are now posted the folder that I have shared with you on Panopto: <https://uncch.hosted.panopto.com/> I have updated the Table of Contents to help you find the section you need. I did not record the HTML overview part fot the 8:00 a.m. class. If you want to see that, look in the 10:10 class and find it in the table of contents.
 
 ## Basics Wrapup and Forum Post 1
 Please wrap up any outstanding Basics assignments very soon. You should not be locked out of forum posting if you have fallen behind. It is better to be late than to skip making a post. Don't post two posts in one folder. If you want to make extra posts more often, go to the next folder. This is important for grading.
