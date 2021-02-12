@@ -132,18 +132,23 @@ Take a look at the following code and note the comments:
 
 Here are a few examples of my own templates that some students have used from past classes (these have the mobile friendly settings in the ```<head>```).
 
+### EZ-Template (No Framework just html and css)
 * [EZ-Template sample](https://opal.ils.unc.edu/~lblakej/website-helps/09-EZ-template/index.html)
 * [EZ-Template Source Files](https://github.com/ljonesdesign/EZ-template)
 
+### One Page Template ([Bootstrap](https://getbootstrap.com/))
 * [One page template sample](https://opal.ils.unc.edu/~lblakej/website-helps/02-one-page-final-sample/)
 * [Download one page template](https://opal.ils.unc.edu/~lblakej/website-helps/03-one-page-source-files/one-page-green-starter-theme.zip)
 
+### Multiple Page Template ([Skeleton Boilerplate](http://getskeleton.com/))
 * [Multiple page template sample](https://opal.ils.unc.edu/~lblakej/website-helps/05-multi-page-final-sample/)
 * [Download multiple page template](https://opal.ils.unc.edu/~lblakej/website-helps/06-multi-page-source-files/multi-page-template.zip)
 
+### UNC Template ([Bootstrap](https://getbootstrap.com/))
 * [UNC Theme Sample](https://opal.ils.unc.edu/~lblakej/website-helps/07-NEW-bootstrap-template/index.html)
 * [Download Bootstrap-based UNC theme template](https://opal.ils.unc.edu/~lblakej/website-helps/07-NEW-bootstrap-template/)
 
+### Photobackground Template ([Bootstrap](https://getbootstrap.com/))
 * [Background Photo Sample](https://opal.ils.unc.edu/~lblakej/website-helps/08-photo-background-example/index.php)
 * [Download Bootstrap-based Photo Theme template](https://opal.ils.unc.edu/~lblakej/website-helps/08-photo-background-template.zip)
 
