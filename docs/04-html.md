@@ -7,12 +7,12 @@ sidebar_label: 02-12-2021 | HTML
 
 1. Right click on your desktop and create a folder.
 2. Name the folder task02-01.
-3. Open up your text editor. (It is helpful to use a text editor that has a project sidebar to follow along in class. VS Code and Brackets show project files in a sidebar.)
+3. Open up your text editor. (It is helpful to use a text editor that has a project sidebar to follow along in class. VS Code and Brackets show project files in a sidebar. If you are using a non-sidbar editor, you will need to create files and save them in the finder (Mac) or explorer (PC). I will demo both in class.
 4. Open the folder:
    * Drag the folder onto your text-editor side bar,
    * or choose to open the folder using the menu or icons.
    * Any changes you make in the sidebar will affect the file on your desktop and vice-versa.
-5. Right click in the sidebar and create a new file. Name it ```index.html```.
+5. Right click in the sidebar and create a new file. Name it ```index.html```. **Do not get creative with this. Every website root directory must have an index.html file with a lower case "i".**
 6. Right click in the sidebar and create another new file. Name it. ```notes.txt```.
 
 ## Confirm in Browser
