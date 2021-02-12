@@ -48,7 +48,8 @@ Beware of “caching.” Web browsers will sometimes, but not always, save a cop
 ## Viewing Code
 
 Right-click on web page and choose view source to see your code. Be careful not to right-click on an image. If you do, you will see the image property data, and not the code.
-Put all of your files in one "Root" folder
+
+Put all of your files in one "Root" folder.
 
 Images, PDFs pages all must be in the root folder. Copy all of you images into the root folder. Avoid linking to images on the web not in your folder. That is called “hotlinking” and makes your page dependent on that server. If you don't have permission to "hotlink" then you are effectively [stealing bandwidth](https://www.keycdn.com/support/what-is-hotlinking). It is okay to link to an image that directs you to that page.
 
@@ -57,4 +58,4 @@ Images, PDFs pages all must be in the root folder. Copy all of you images into t
 **The text editors that we are using do not allow for file uploading. You will need to use your sftp program.** Remember that you need to put your folder in the ```public_html``` folder for it to be visible via a web browser.
 :::
 
-To log into opal with your SFTP program enter ```opal.ils.unc.edu``` for the server and your username is your ```onyen```. Your password is your onyen password. After you upload your folder to the public_html directory in opal, you will need to direct your browser to ```https://opal.ils.unc.edu/~youronyen``` to confirm it has uploaded correctly uploaded.h
+To log into opal with your SFTP program enter ```opal.ils.unc.edu``` for the server and your username is your ```onyen```. Your password is your onyen password. After you upload your folder to the public_html directory in opal, you will need to direct your browser to ```https://opal.ils.unc.edu/~youronyen``` to confirm it has uploaded correctly uploaded.
