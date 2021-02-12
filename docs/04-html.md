@@ -4,7 +4,7 @@ sidebar_label: 02-12-2021 | HTML
 ---
 
 ## Class recordings
-Recordings of this recitation are now posted the folder that I have shared with you on Panopto: <https://uncch.hosted.panopto.com/>. I have updated the Table of Contents to help you find the section you need. I overlooked restarting th recording for the HTML overview part for the 8:00 a.m. class; but, I did record it in the 10:10 class.
+Recordings of this recitation are now posted the folder that I have shared with you on Panopto: <https://uncch.hosted.panopto.com/>. I have updated the Table of Contents to help you find the section you need. I overlooked restarting the recording for the HTML overview part for the 8:00 a.m. class; but, I did record it in the 10:10 class.
 
 Find it in the table of contents around the 44:00 minute mark:
 ![Panopto Table of Contents](/img/panopto-toc.png)
