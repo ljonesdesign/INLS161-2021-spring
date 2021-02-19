@@ -1,9 +1,22 @@
 ---
-title: CSS
+title: CSS Overview and Task 02.02 Focus
 sidebar_label: 02-19-2021 | CSS
 ---
 
-* [Color Hex Color Codes](https://www.color-hex.com/)
+## Session Video
+
+This class was cancelled due to inclement weather conditions. Here is a video that will walk you through getting your task 02.02 completed. If you are not able to see the video, you will need to login into <https://uncch.hosted.panopto.com>.
+
+<iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2752cc5b-fca5-4ad7-a231-acd3011bd838&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all'
+        allowfullscreen
+        height='405'
+        width='720'
+/>
+
+
+
+
+
 
 ## HTML Review
 
@@ -195,3 +208,8 @@ Here is how you link to both ```style.css``` and ```unc_theme.css``` file:
 ## Experiment with some css
 
 You now know all you need to know to start experimenting with CSS. Have some fun! But make sure your CSS validates before you submit your 02.02 Assignment in Sakai.
+
+* [Color Hex Color Codes](https://www.color-hex.com/)
+* [CSS Basics](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Custom Properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+
