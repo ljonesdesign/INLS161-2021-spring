@@ -23,10 +23,16 @@ It is not bad practice to follow the entire tutorial if you have time, but you c
 
 Find and download your book's UTF-8 file, or navigate to [Life of the Bee's Gutenberg location](http://www.gutenberg.org/ebooks/38516) and download the plain text version, in UTF-8 format, with no compression and a size of 164 kB, from the main site. Save the document on your client as a .txt file. Once you have the document on your client, open it in the program of your choice and save it in the program's file extension, (.docx for Microsoft Word) so you can take advantage  of the specific tools available in the program.
 
+Project Gutenberg does not have a scan of the book, but you can see the [scanned copy of Children's Life of the Bee](https://archive.org/stream/childrenslifeofb00maet2#page/n11/mode/2up) at archive.org.
+
 ![Life of Bee screenshot](/img/life-of-bee.png)
 
-Here is a link to the contents of a [scanned copy of Children's Life of the Bee](https://archive.org/stream/childrenslifeofb00maet2#page/n11/mode/2up).
 
-This is at archive.org, not Project Gutenberg. Take notice of all the chapter start pages. Are they all odd or even? Keep this in mind when you decide which section break you are to use, when asked to set section breaks. This is a standard publishing convention, so you should follow this section break-style for your book.
+
+If you take the time to go look at some of the scan pages, take notice of all the chapter start pages. **They are all odd.** Keep this in mind when you decide which section break you decide to use, when asked to set section breaks. This is a standard publishing convention, so you might decide to follow the odd-page section break-style for your book (if you want to follow conventions). You can use any type of section break between chapters, just be consistent.
+
+:::warning
+Section breaks, **not page breaks**, are absolutely critical between chapters, otherwise you will never get your chapter title headings to work.
+:::
 
 [Watch the Video Tutorial for creating the example raw-text file Life of the Bee (2:08 minutes)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-01-gutenberg.mp4)

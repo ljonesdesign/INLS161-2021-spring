@@ -8,10 +8,7 @@ sidebar_label: 02-19-2021 | CSS
 This class was cancelled due to inclement weather conditions. Here is a video that will walk you through getting your task 02.02 completed. If you are not able to see the video, you will need to login into <https://uncch.hosted.panopto.com>.
 
 <iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2752cc5b-fca5-4ad7-a231-acd3011bd838&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all'
-        allowfullscreen
-        height='405'
-        width='720'
-/>
+        />
 
 
 
