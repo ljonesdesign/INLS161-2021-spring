@@ -3,7 +3,7 @@ title: Templates
 sidebar_label: 02-26-2021 | Templates
 ---
 
-## Recording are ready
+## Recordings for 601 and 603 are ready
 I have not had time to proof the text or set up the chapter headings, but the raw recordings are now in [UNC Panoto](https://uncch.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=78ad0f67-c2df-4f4f-a624-acc00019ad45)
 
 :::warning
