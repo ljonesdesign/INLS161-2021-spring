@@ -3,6 +3,8 @@ title: Templates
 sidebar_label: 02-26-2021 | Templates
 ---
 
+## Recording are ready
+I have not had time to proof the text or set up the chapter headings, but the raw recordings are now in [UNC Panoto](https://uncch.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=78ad0f67-c2df-4f4f-a624-acc00019ad45)
 
 :::warning
 Your home page, or initial page should always be named ```index.html```. the ```"i"``` should be lower case and html should be lowercase. Don't name it ```index1.html``` or ```2index.html```. Don't ever have a page named ```home.html```. Your **home** page **is** the ```index.html``` page. If you name it with a capital ```"I"``` like this,```Index.html```, OPAL will not hide it in the directory. It will be listed like any other non ```index.html``` file.
