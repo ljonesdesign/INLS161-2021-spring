@@ -4,6 +4,8 @@ title: Website Checklist
 
 Here is a checklist that you can use to make sure you have all the parts of your website done before posting to OPAL and submitting.
 
+Here is a [02.03 grading rubric draft](https://docs.google.com/spreadsheets/d/15xJiRcZNag7ZymqJ-0X6VNHegPlHtkeakk5dKLr31Mw/edit?usp=sharing) that I am finalizing. It is mostly complete. Take a look and let me know if you have any questions.
+
 :::tip
 Control+F (PC) and Command+F (Mac) will help you find what you are looking for on this page if you get stuck building your site. [Six Keyboard Shortcuts Every Computer User Should Know](https://lifehacker.com/six-keyboard-shortcuts-every-computer-user-should-know-5836288)
 :::
