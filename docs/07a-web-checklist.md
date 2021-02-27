@@ -5,7 +5,7 @@ title: Website Checklist
 Here is a checklist that you can use to make sure you have all the parts of your website done before posting to OPAL and submitting.
 
 :::tip Grading Point Scale
-Here is a [02.03 grading rubric draft](https://docs.google.com/spreadsheets/d/15xJiRcZNag7ZymqJ-0X6VNHegPlHtkeakk5dKLr31Mw/edit?usp=sharing) that I am finalizing. It is mostly complete. Take a look and let me know if you have any questions.
+Here is a [02.03 grading rubric draft](https://docs.google.com/spreadsheets/d/15xJiRcZNag7ZymqJ-0X6VNHegPlHtkeakk5dKLr31Mw/edit?usp=sharing) that I am finalizing. It is mostly complete.The only issue is regarding the content of the third level page or pages. Don't obsess over this, I am flexible on this as long as you get it done in some fashion. Most of my templates have third level examples. However, the EZ template does not.
 :::
 
 :::note
