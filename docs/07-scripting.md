@@ -30,9 +30,9 @@ My one page theme, based on the bootstrap framework, also has [magnific popup ja
 
 ## Server Side Script (Google Font example)
 
-The javascript example above is hosted at my account at https://jsfiddle.net, so it is showing up on this page via a serverside script. it is using an iframe tag. If you have a youtube account or a twitter account you can find instructions on how you can embed a youTub video or a twitter feed on an html page in your site.
+The javascript example above is hosted at my account at https://jsfiddle.net, so it is showing up on this page via a serverside script. If you have a youtube account or a twitter account you can find instructions on how you can embed a youTube video or a Twitter feed on an html page in your site. **Basically any thing that is hosted on another server and can be displayed on your site will count as a server side script.**
 
-Here is a link that describes how to integrate Google fonts into your site:
+Google fonts are hosted on Google servers and can be displayed on your pages. Here is a link that describes how to integrate Google fonts into your site:
 
 [https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/](https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/)
 
