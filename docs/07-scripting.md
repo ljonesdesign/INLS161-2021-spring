@@ -3,6 +3,9 @@ title: Scripting
 sidebar_label: 03-05-2021 | Scripting
 ---
 
+## Recordings for 601 and 603 Recitations
+The raw recordings are now in [UNC Panoto](https://uncch.hosted.panopto.com)
+
 ## Client Side Script (JavaScript)
 
 I will demonstrate how you can implement some of these javascript samples shown here:
