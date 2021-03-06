@@ -5,7 +5,7 @@ title: Website Checklist
 Here is a checklist that you can use to make sure you have all the parts of your website done before posting to OPAL and submitting.
 
 :::tip Grading Point Scale
-[02.03 grading rubric draft](https://docs.google.com/spreadsheets/d/15xJiRcZNag7ZymqJ-0X6VNHegPlHtkeakk5dKLr31Mw/edit?usp=sharing) 
+[02.03 grading rubric](https://docs.google.com/spreadsheets/d/15xJiRcZNag7ZymqJ-0X6VNHegPlHtkeakk5dKLr31Mw/edit?usp=sharing) 
 :::
 
 :::note
