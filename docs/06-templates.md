@@ -24,13 +24,13 @@ I will encourage you to make your site colors and typography easy to read and me
 
 ## Working with Templates
 
-If you decided to download a template from the web, here is a video that will show you how you might set it up for your 02.03 project
+If you decided to download a template from the web, here is a video that will show you how you might set it up for your 02.03 project:
 
 
 <iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=8faca4a6-80e4-4ed4-889a-aceb01351480&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all'
 />
 
-Here are a few examples of my own templates that some students have used from past classes (these have the mobile friendly settings in the ```<head>```).
+Below are a few examples of my own templates that some students have used from past classes (these have the mobile friendly settings in the ```<head>```).
 
 ### EZ-Template (No Framework just html and css)
 * [EZ-Template sample](https://opal.ils.unc.edu/~lblakej/website-helps/09-EZ-template/index.html)
