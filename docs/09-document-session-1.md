@@ -6,8 +6,8 @@ sidebar_label: 03-19-2021 | Markup 1
 
 You should read this page before class and make some choices. We will not go over this page in the recitation.
 
-:::tip Gradesheet
-[Gradesheet has helpful links](https://docs.google.com/spreadsheets/d/1fhnqMBbhlNOibG7OkRgcDm7d4ZOdeVJ3WJBrX3TCjs0/edit?usp=sharing)
+:::tip Task 03 Gradesheet
+[Gradesheet has helpful links for Mac Users](https://docs.google.com/spreadsheets/d/1fhnqMBbhlNOibG7OkRgcDm7d4ZOdeVJ3WJBrX3TCjs0/edit?usp=sharing)
 :::
 
 This recitation is a blended session. I will demonstrate all of the activities on a PC because the PC version of Word is what most of you will encounter in the business world.
