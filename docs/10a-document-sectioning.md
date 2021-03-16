@@ -7,8 +7,10 @@ sidebar_label: "- Activity 3: Sectioning & TOC"
 
 ## Task 3.13 Section Breaks
 
-Insert appropriate section breaks so that each separate element of the
+Insert appropriate **section breaks** so that each separate element of the
 work (preface, chapters, endnotes, if any) starts on new page. (Use your document map and your keyboard shortcuts to speed the process).
+
+**DON'T USE PAGE BREAKS! Your headers have to change at each chapter. If you use page breaks, you will go in an endless loop trying to get it to work.**
 
 [Video Tutorial for help on inserting Section Breaks; Life of the Bee (3:35 minutes)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-11-sectioning.mp4)
 
