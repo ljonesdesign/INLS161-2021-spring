@@ -27,5 +27,3 @@ The most frustrating part of this project for Mac Users is the setup because the
  In the left side bar is an entire course of video lessons for this project. It would be a good plan to get ahead and try to complete all of these tasks before our final documents class. Then we can focus on getting the difficult parts corrected.
  You are welcome to use a grade sheet that is number referenced to these video lectures or the grade sheet without number references.
 
-* [Task 03 Gradesheet with number references to video lectures](https://opal.ils.unc.edu/~lblakej/misc/number-key-gradesheet-task-03.xlsx)
-* [Task 03 Gradesheet without number references](https://sakai.unc.edu/access/content/attachment/8f9c1dbd-3e27-400a-bdae-29608fa12361/Assignments/d332c637-3a48-4e5c-b39b-ae65fa59f48e/task03grades.xlsx)
