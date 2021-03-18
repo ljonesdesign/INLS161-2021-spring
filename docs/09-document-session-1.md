@@ -21,7 +21,7 @@ You are going to need to [choose a book](http://www.gutenberg.org). If you choos
 [Project Gutenberg Newest Releases](http://www.gutenberg.org/ebooks/search/?sort_order=release_date) Here is a list of the latest 1,000 recent additions. It's kind of fascinating to see what volunteers have been working on over the last six months. Find anything that you like but you should **not go for books with fewer that 8 chapters or more than 15 chapters** and stay away from oddly formatted text or poetry. You want clean blocks of text; You will not attempt to include any graphics or photos from the book, so you should stay away from books that are mostly graphically in nature. It is okay to choose a book with some photos, but the text format you choose will not have the photos included.
 
 ## New Macintosh Setup Videos
-The most frustrating part of this project for Mac Users is the setup because the user interface is very different from the PC demonstration. If you are Mac User you should [watch this video for set up](https://opal.ils.unc.edu/~lblakej/task03-mac-video/macsetup.mp4) and not try to follow along with the PC demo in class.
+The most frustrating part of this project for Mac Users is the setup because the user interface is very different from the PC demonstration. If you are Mac User you should [watch this video for set up](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=006426fe-d9b2-4199-b61f-acef01580330) and not try to follow along with the PC demo in class.
 
 ## Videos from Previous Class
  In the left side bar is an entire course of video lessons for this project. It would be a good plan to get ahead and try to complete all of these tasks before our final documents class. Then we can focus on getting the difficult parts corrected.
