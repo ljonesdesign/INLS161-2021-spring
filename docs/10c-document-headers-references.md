@@ -3,10 +3,7 @@ title: "Activity 5: Headers and References"
 sidebar_label: "- Activity 5: Headers and References"
 ---
 
-<iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=f6d6c528-c7d5-4fb7-8cc9-acf000041fad&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' 
-height='405' 
-width='720' 
-/>
+<div class='embed-container'><iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=f6d6c528-c7d5-4fb7-8cc9-acf000041fad&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
 
 [Macintosh screenshots for Headers and Reference](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-5/README.md)
 

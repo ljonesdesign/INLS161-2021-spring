@@ -3,10 +3,7 @@ title: "Activity 1: Cleanup and Setup"
 sidebar_label: "- Activity 1: Setup"
 ---
 
- <iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=571a7b84-2464-478c-be1f-acef018b6ec6&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all'
- height='405' 
- width='720' 
-/>
+<div class='embed-container'><iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=571a7b84-2464-478c-be1f-acef018b6ec6&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
 
 [Macintosh screenshots for Setup](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-1/README.md)
 

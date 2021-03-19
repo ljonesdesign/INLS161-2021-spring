@@ -3,10 +3,7 @@ title: "Activity 2: Styles Setup"
 sidebar_label: "- Activity 2: Styles"
 ---
 
-<iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=a97c11bf-87da-465c-8627-acf00002b963&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all'
-height='405' 
-width='720'
-/>
+<div class='embed-container'><iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=a97c11bf-87da-465c-8627-acf00002b963&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
 
 [Macintosh screenshots for Styles](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-2/README.md)
 

@@ -3,10 +3,7 @@ title: "Activity 3: Sectioning & TOC"
 sidebar_label: "- Activity 3: Sectioning & TOC"
 ---
 
-<iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=ae1d5e54-d813-40f3-8cbe-acf0000356d4&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' 
-height='405'
-width='720' 
-/>
+<div class='embed-container'><iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=ae1d5e54-d813-40f3-8cbe-acf0000356d4&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
 
 [Macintosh screenshots for Sectioning and Images](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-3-4/README.md)
 

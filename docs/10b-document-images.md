@@ -3,10 +3,7 @@ title: "Activity 4: Images"
 sidebar_label: "- Activity 4: Images"
 ---
 
-<iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=f34e29e9-2396-4c89-80e1-acf00003ccb7&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' 
-height='405'
-width='720' 
-/>
+<div class='embed-container'><iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=f34e29e9-2396-4c89-80e1-acf00003ccb7&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
 
 [Macintosh screenshots for Sectioning and Images](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-3-4/README.md)
 
