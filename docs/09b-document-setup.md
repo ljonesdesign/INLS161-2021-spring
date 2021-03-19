@@ -52,7 +52,7 @@ Using your find and replace tools, reformat the e-book to eliminate unnecessary 
 
 ## Task 3.04 Page Setup
 
-Mac Users: The most frustrating part of this project for Mac Users is the setup because the user interface is very different from the PC demonstration. If you are Mac User [watch this video for set up](hhttps://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=006426fe-d9b2-4199-b61f-acef01580330) and not try to follow along with the PC demo in class or the setup videos here.
+Mac Users: The most frustrating part of this project for Mac Users is the setup because the user interface is very different from the PC demonstration. If you are Mac User [watch this video for set up](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=006426fe-d9b2-4199-b61f-acef01580330) and not try to follow along with the PC demo in class or the setup videos here.
 
 *Set Page Size Layout*
 
