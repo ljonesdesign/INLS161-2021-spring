@@ -5,7 +5,7 @@ sidebar_label: "- Markup Overview"
 
 ## Mac Help
 
-[Macintosh help files for the setup section](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-1/README.md) *Mac Help is additional information to help Mac Users with the differences in Word Mac and Word for Windows. Mac Users should not depend 100% on following the steps in the mac help sections. Check your work against the steps in this page and the following pages, and use the grade sheet for a final check.*
+[Macintosh screenshots for the setup section](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-1/README.md) *Mac Help is additional information to help Mac Users with the differences in Word Mac and Word for Windows. Mac Users should not depend 100% on following the steps in the mac help sections. Check your work against the steps in this page and the following pages, and use the grade sheet for a final check.*
 
 Mac Users will benefit from watching the videos; the process is very similar on the mac in most cases.
 
@@ -35,4 +35,3 @@ If you take the time to go look at some of the scan pages, take notice of all th
 Section breaks, **not page breaks**, are absolutely critical between chapters, otherwise you will never get your chapter title headings to work.
 :::
 
-[Watch the Video Tutorial for creating the example raw-text file Life of the Bee (2:08 minutes)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-01-gutenberg.mp4)

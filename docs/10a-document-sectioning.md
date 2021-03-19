@@ -3,7 +3,12 @@ title: "Activity 3: Sectioning & TOC"
 sidebar_label: "- Activity 3: Sectioning & TOC"
 ---
 
-[Macintosh help for Sectioning and Images](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-3-4/README.md)
+<iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=ae1d5e54-d813-40f3-8cbe-acf0000356d4&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' 
+height='405'
+width='720' 
+/>
+
+[Macintosh screenshots for Sectioning and Images](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-3-4/README.md)
 
 ## Task 3.13 Section Breaks
 
@@ -12,16 +17,13 @@ work (preface, chapters, endnotes, if any) starts on new page. (Use your documen
 
 **DON'T USE PAGE BREAKS! Your headers have to change at each chapter. If you use page breaks, you will go in an endless loop trying to get it to work.**
 
-[Video Tutorial for help on inserting Section Breaks; Life of the Bee (3:35 minutes)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-11-sectioning.mp4)
 
 ## Task 3.14 Delete ToC
 
 If your downloaded book has a table of contents included in it, delete it because you will replace it with a new Table of Contents.
 
-[Video Tutorial for help on deleting the Table of Contents; Life of the Bee (56 seconds)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-12-deleting-TOC.mp4)
 
 ## Task 3.15 Create ToC Page
 
 After the title page and prior to the first section of the book, add a section break that will make the following page start on new page between the title page and the first chapter and put the words "**Table of Contents**" formatted as a Heading 3 atop this page. Do not try to create your table of contents yet!
 
-[Video Tutorial for creating a placeholder page for Table of Contents; Life of the Bee (2:14 minutes)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-13-preparing-TOC.mp4)

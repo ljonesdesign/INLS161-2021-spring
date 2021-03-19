@@ -3,9 +3,12 @@ title: "Activity 4: Images"
 sidebar_label: "- Activity 4: Images"
 ---
 
-# Part 4: Images
+<iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=f34e29e9-2396-4c89-80e1-acf00003ccb7&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' 
+height='405'
+width='720' 
+/>
 
-[Macintosh help for Sectioning and Images](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-3-4/README.md)
+[Macintosh screenshots for Sectioning and Images](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-3-4/README.md)
 
 ## Task 3.16 Title Page Break
 
@@ -21,10 +24,7 @@ If you can't find an actual image, use an image of any person on this page.
 
 Format the image to wrap top and bottom, with picture position horizontal alignment centered relative to the page.
 
-[Video Tutorial for help with setting up the Author Image; Life of the Bee (3:48 minutes)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-14-author-image.mp4)
-
 ## Task 3.19 Create Logo
 
 Using any combination of drawing objects, insert  them into the last full page of your document and then group them together into a new single object to create a logo representing your notional publishing company. Wrap the image tight with a horizontal alignment centered relative to column.
 
-[Video Tutorial for help with creating the logo Image; Life of the Bee (5:14 minutes)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-15-logo-image.mp4)

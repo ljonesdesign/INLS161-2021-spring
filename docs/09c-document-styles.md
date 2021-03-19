@@ -3,8 +3,14 @@ title: "Activity 2: Styles Setup"
 sidebar_label: "- Activity 2: Styles"
 ---
 
+<iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=a97c11bf-87da-465c-8627-acf00002b963&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all'
+height='405' 
+width='720'
+/>
+
+[Macintosh screenshots for Styles](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-2/README.md)
+
 ## Task 3.06 Primary Style
-[Macintosh Help for Styles](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-2/README.md)
 Create a new style called **Task03Content**
 * based on the Normal style
 * with a **sans-serif** font of your choosing
@@ -54,11 +60,6 @@ black color, center alignment.
 ## Task 3.11 Format Title
 On the first page of the document, format the words in the title in the Title style.
 If there is a subtitle, format it in the Subtitle style.
-[Video Tutorial for setting up basic styles; Life of the Bee (4:17 minutes)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-08-styles.mp4)
 
 ## Task 3.12 Chapter Headings
 Format the name of each section that precedes the chapters of the document (such as Preface, Forward, etc. if the work has any) and the title of each chapter in Heading 2 style (these will be used later for the real table of contents). If you have any text sections that follow the chapters, format them in the same Heading 2 style.  You will have multiple sections and chapter titles to format appropriately. You can productively use your CNTL+F tool here. If your work also has chapter numbers, format each chapter number in Heading 1 style. If your work has no chapter titles, format the chapter number in the Heading 2 style.
-
-[Video Tutorial for using the Navigation Pane Life of the Bee 5:47-minutes](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-09-navigation-pane.mp4)
-
-[Video Tutorial for setting up Heading 1 and Heading 2 styles Life of the Bee 6:35 minutes](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-10-heading1and2.mp4)

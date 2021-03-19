@@ -12,9 +12,6 @@ This class was cancelled due to inclement weather conditions. Here is a video th
 
 
 
-
-
-
 ## HTML Review
 
 This is the basic page that we hard coded last week. We did it line by line in notepad without any auto completion:

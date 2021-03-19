@@ -3,6 +3,13 @@ title: "Activity 1: Cleanup and Setup"
 sidebar_label: "- Activity 1: Setup"
 ---
 
+ <iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=571a7b84-2464-478c-be1f-acef018b6ec6&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all'
+ height='405' 
+ width='720' 
+/>
+
+[Macintosh screenshots for Setup](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-1/README.md)
+
 The document has unnecessary text at the beginning and end and a hard paragraph return at the
 end of every line. These all need to be removed.
 
@@ -14,7 +21,6 @@ Make sure you get the hard paragraph returns removed first.
 
 Delete everything in the downloaded text up to the title. Your new document should begin with the title of the work.
 
-[Watch the Video Tutorial for deleting the front matter; Life of the Bee (19 seconds)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-02-delete-front-matter.mp4)
 
 ## Task 3.02 Delete End Matter
 
@@ -32,7 +38,6 @@ If that does not work, scroll to the end and then scroll back up to locate the s
 
 Delete that line and all the remaining lines of the document. Your new document should end with the last line of the original work and should not include any of the Project Gutenberg legalese that one normally finds at the end.
 
-[Watch the Video Tutorial for deleting the end legalese; Life of the Bee (1:07 minutes)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-03-delete-end-legalese.mp4)
 
 ## Task 3.03 Remove extra ^p Markers
 
@@ -43,8 +48,6 @@ Delete that line and all the remaining lines of the document. Your new document 
 *Next:Eliminate unnecessary paragraph markers*
 
 Using your find and replace tools, reformat the e-book to eliminate unnecessary paragraph markers and to permit the text to wrap until it hits an actual paragraph mark.
-
-[Watch the Video Tutorial for eliminating unnecessary paragraph markers: Life of the Bee (5:18 minutes)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-04-remove-returns-1.mp4)
 
 *The Video makes reference to the slide show below as being on an Exercise 1 page. That page was confusing, and has been deleted. The link to the mentioned slide show is directly below this line.*
 
@@ -66,11 +69,8 @@ Set the margins for the pages to:
 * .3 inch margins left and right;
 * .5 inch margins top and bottom;
 
-[Watch the Video Tutorial for page layout and margins; Life of the Bee (1:25 minutes)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-06-layout-and-margins.mp4)
-
 headers & footers
 
 * set at .3 inches.
 * set the headers for Different Odd & Even.
 
-[Watch the Video Tutorial for setting up header and footer margins and layout; Life of the Bee(42 seconds)](https://ils.unc.edu/courses/2017_fall/inls161_001/videos/markup/markup-07-layout-header-footer-margins.mp4)
