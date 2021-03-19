@@ -25,6 +25,6 @@ The most frustrating part of this project for Mac Users is the setup because the
 
 ## Videos from Previous Class
  In the left side bar is an entire course of video lessons for this project. It would be a good plan to get ahead and try to complete all of these tasks before our final documents class. Then we can focus on getting the difficult parts corrected.
- You are welcome to use a grade sheet that is number referenced to these video lectures or the grade sheet without number references.
+ You are welcome to use the grade sheet at the top of this page that is number referenced, or you can use the Dr. Bergquist's grade sheet. They are the same, but mine is laid out more to my teaching style.
 
 
