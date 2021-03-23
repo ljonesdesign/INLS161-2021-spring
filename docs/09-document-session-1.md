@@ -10,7 +10,11 @@ You should read this page before class and make some choices. We will not go ove
 [Gradesheet has helpful links for Mac Users](https://docs.google.com/spreadsheets/d/1fhnqMBbhlNOibG7OkRgcDm7d4ZOdeVJ3WJBrX3TCjs0/edit?usp=sharing)
 :::
 
-This recitation is a blended session. I will demonstrate all of the activities on a PC because the PC version of Word is what most of you will encounter in the business world.
+This recitation is a blended session. 
+
+<s>I will demonstrate all of the activities on a PC because the PC version of Word is what most of you will encounter in the business world.</s> 
+
+*I actually decided to demo it on the Mac because the videos are from the PC perspective. Therefore, if you are a Mac User, you may want to look at the class recordings in Panopto.*
 
 This session is geared towards helping you get your project done. The lecture provides the context about why you are doing what you are doing.
 
