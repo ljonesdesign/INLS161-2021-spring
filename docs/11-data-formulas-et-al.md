@@ -19,7 +19,7 @@ It may not be necessary to use the password to download the source file. I think
 
 After you download it, do not update it, or enable links, because the file is linked to other files you do not have access to. However, you will need to allow editing. You will make edits to this file and submit your edits for final grading at the end of the data sessions. There is only one submisson at the end, so make sure you do not fall behind over the next few weeks.
 
-Belows is Panopto search tip, and below that is a video from Fall 2020 that will show you how to do all of the Intro Session 04 Tasks. There may be some minor differences in worksheet names or numbers, but I think all of the basic material is the same. If you encounter any confusion, let me know via email.
+Belows is a very helpful Panopto search tip, and below that is a video from Fall 2020 that will show you how to do all of the Intro Session 04 Tasks. There may be some minor differences in worksheet names or numbers, but I think all of the basic material is the same. If you encounter any confusion, let me know via email.
 
 :::tip Search a Panopto Video
 At the bottom of a panopto embed is an arrow. Click that arrow and then you can do a search for anything in particular. Below is a screen shot of performing a search on "hide"
