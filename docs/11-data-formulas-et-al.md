@@ -22,7 +22,8 @@ After you download it, do not update it, or enable links, because the file is li
 Here is a video from Fall 2020 that will show you how to do all of the Intro Session 04 Task. There may be some minor differences in worksheet names or numbers, but I think all of the basic material is the same. If you encounter any confusion, let me know via email.
 
 :::tip Search a Panopto Video
-At the bottom of a panopto embed is an arrow. Click that arrow and then you can do a search for anything in particular. Below is a screen shot of performing a search on "hide":
+At the bottom of a panopto embed is an arrow. Click that arrow and then you can do a search for anything in particular. Below is a screen shot of performing a search on "hide":::
+
 ![Panopto Search](/img/panopto-search.png)
 
 <div class='embed-container'><iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9c61229e-81f0-4bcb-8dc3-ac520137a074&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
