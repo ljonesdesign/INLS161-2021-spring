@@ -3,13 +3,12 @@ title: Spreadsheet Intro
 sidebar_label: 04-02-2021 | Data Intro
 ---
 
-This is a University Holiday. We will not meet today. Follow these directions and you can get started on the project.
+This is a University Holiday. We will not meet today. Follow these directions and you can get started on the project at any time before or after your scheduled recitation time. I will offer flexible Zoom office hours if you need additional help; contact me at lbjones[@]unc.edu to schedule.
 
-You will work through the steps on the [class website recitation page here](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html), and the steps to the other links at the bottom of that page.
+## Week of 30 March 4.0 Recitation Tasks
 
-## week of 30 March 4.0 Recitation Tasks
-
-:::tip Links to Required Tasks [setting up a worksheet](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html) | [setting up a workbook](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.02.workbook.html) | [other tools](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.03.other-tools.html) | [functions, formulas, formatting](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.04.formulas.html)
+:::tip Links to Required Tasks 
+[setting up a worksheet](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html) | [setting up a workbook](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.02.workbook.html) | [other tools](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.03.other-tools.html) | [functions, formulas, formatting](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.04.formulas.html)
 :::
 
 Go to that page and download the source workbook or, you can [download the sourcefile here (same link)](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/materials/04/task04.datasets.xlsx).
