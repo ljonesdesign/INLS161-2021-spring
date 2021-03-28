@@ -13,6 +13,8 @@ After you download it, do not update it, or enable links, because the file is li
 It may not be necessary to use the password to download the source file. I think you only need to log into Sakai to get the download. If so, ignore the first minute of the video that talks about how to get the file via password.
 :::
 
+Here is a link to [download the Powerpoint Used in Video](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/misc-screenshots/formatting-functions-formulas.pptx)
+
 <div class='embed-container'><iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9c61229e-81f0-4bcb-8dc3-ac520137a074&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
 
 :::tip Search a Panopto Video
