@@ -3,6 +3,10 @@ title: Spreadsheet Intro
 sidebar_label: 04-02-2021 | Data Intro
 ---
 
+:::tip Links to Required Tasks 
+[setting up a worksheet](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html) | [setting up a workbook](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.02.workbook.html) | [other tools](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.03.other-tools.html) | [functions, formulas, formatting](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.04.formulas.html)
+:::
+
 This is a University Holiday. We will not meet today. Read everything on this page and you will be able to get started on the project at any time before or after your scheduled recitation time.  I will offer flexible Zoom office hours if you need additional help; contact me at lbjones[@]unc.edu to schedule.
 
 Below is a video from Fall 2020 that will show you how to do all of the Intro Session 04 Tasks. There may be some minor differences in worksheet names or numbers, but I think all of the basic material is the same. If you encounter any confusion, let me know via email. Go to the [setting up a worksheet page](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html) and download the source workbook or, you can [download the sourcefile here (same link)](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/materials/04/task04.datasets.xlsx).
@@ -24,6 +28,4 @@ At the bottom of a panopto embed is an arrow. Click that arrow and then you can 
 ![Panopto Search](/img/panopto-search.png)
 ## Week of 30 March 4.0 Recitation Tasks
 
-:::tip Links to Required Tasks 
-[setting up a worksheet](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html) | [setting up a workbook](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.02.workbook.html) | [other tools](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.03.other-tools.html) | [functions, formulas, formatting](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.04.formulas.html)
-:::
+
