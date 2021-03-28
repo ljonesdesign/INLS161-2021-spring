@@ -11,7 +11,7 @@ This is a University Holiday. We will not meet today. Follow these directions an
 [setting up a worksheet](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html) | [setting up a workbook](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.02.workbook.html) | [other tools](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.03.other-tools.html) | [functions, formulas, formatting](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.04.formulas.html)
 :::
 
-Go to that page and download the source workbook or, you can [download the sourcefile here (same link)](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/materials/04/task04.datasets.xlsx).
+Go to the [setting up a worksheet page](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html) and download the source workbook or, you can [download the sourcefile here (same link)](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/materials/04/task04.datasets.xlsx).
 
 :::note
 It may not be necessary to use the password to download the source file. I think you only need to log into Sakai to get the download. If so, ignore the first minute of the video that talks about how to get the file via password.
