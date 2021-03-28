@@ -26,6 +26,3 @@ At the bottom of a panopto embed is an arrow. Click that arrow and then you can 
 :::
 
 ![Panopto Search](/img/panopto-search.png)
-## Week of 30 March 4.0 Recitation Tasks
-
-
