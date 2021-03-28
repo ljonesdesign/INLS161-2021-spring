@@ -16,6 +16,8 @@ This recitation is a blended session.
 
 *I actually decided to demo it on the Mac because the videos are from the PC perspective. Therefore, if you are a Mac User, you may want to look at the class recordings in Panopto.*
 
+If you have missed the classes, and you are a PC User, you should focus on the videos and maybe skip the class recordings. If you are a Mac User, you might start with the class recordings. (They are in Panopto if this session is over.)
+
 This session is geared towards helping you get your project done. The lecture provides the context about why you are doing what you are doing.
 
 Long ago I decided to demonstrate this project using [The Children's Life of the Bee](http://www.gutenberg.org/ebooks/38516), so I will continue this tradition. Dr. Bergquist will teach about document markup using various other book examples in the lecture. You should not turn in our example projects used in our online teaching materials. If you have any question about your book, you should check in with me.
