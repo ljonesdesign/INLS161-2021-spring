@@ -7,6 +7,11 @@ This is a University Holiday. We will not meet today. Follow these directions an
 
 You will work through the steps on the [class website recitation page here](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html), and the steps to the other links at the bottom of that page.
 
+## week of 30 March 4.0 Recitation Tasks
+
+::: tip links [setting up a worksheet](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html) | [setting up a workbook](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.02.workbook.html) | [other tools](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.03.other-tools.html) | [functions, formulas, formatting](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.04.formulas.html)
+:::
+
 Go to that page and download the source workbook or, you can [download the sourcefile here (same link)](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/materials/04/task04.datasets.xlsx).
 
 :::note
