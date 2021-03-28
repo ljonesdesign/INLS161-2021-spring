@@ -23,6 +23,6 @@ Here is a video from Fall 2020 that will show you how to do all of the Intro Ses
 
 :::tip Search a Panopto Video
 At the bottom of a panopto embed is an arrow. Click that arrow and then you can do a search for anything in particular. Below is a screen shot of performing a search on "hide":
-![Panopto Search](panopto-search.png)
+![Panopto Search](/img/panopto-search.png)
 
 <div class='embed-container'><iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9c61229e-81f0-4bcb-8dc3-ac520137a074&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
