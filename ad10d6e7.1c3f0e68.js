@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{96:function(n){n.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"File Naming Conventions","permalink":"/INLS161-2021-spring/blog/file-naming-conventions"}]}')}}]);
