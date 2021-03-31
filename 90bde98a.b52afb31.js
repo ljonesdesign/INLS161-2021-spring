@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{92:function(n){n.exports=JSON.parse('{"allTagsPath":"/INLS161-2021-spring/blog/tags","slug":"linux","name":"linux","count":1,"permalink":"/INLS161-2021-spring/blog/tags/linux"}')}}]);
