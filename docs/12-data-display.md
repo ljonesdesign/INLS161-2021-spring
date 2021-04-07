@@ -4,17 +4,13 @@ sidebar_label: 04-09-2021 | Data Display
 
 ---
 
-HOLIDAY
+Everything on this page will be demonstrated in class and the class recording will be posted later in the afternoon.
 
 ## 16-Chart 1 Data: Compare Value to Categories
 
 ### Learning objectives: Duplicate Worksheet, Select/Sort Data, Create Chart, remove unneeded data, format chart
 
 There are a lot of steps in creating a chart in Excel, but once you get the idea of how and why, it only takes a short time to make a chart and is very, very easy.
-
-Here is the [zoom video from last semester](https://opal.ils.unc.edu/~lblakej/task04-videos) if you want to get an overview before class. I forgot to make a duplicate of the 10-KOREANWAR_STATE and rename it 16-CHARTDATA, but all the other steps are demonstrated.
-
-[Charts 2019 Spring](https://opal.ils.unc.edu/~lblakej/task04-videos/2019-spring-charts-zoom.mp4 ':include :type=iframe')
 
 
 ### Prepare the Data for the Chart 1-5.
@@ -46,4 +42,3 @@ We will repeat all of the same steps we did in Chart One, but we will have two c
 
 After we get the chart on a new sheet, we will format it and include a free-floating object.
 
-Below is a video from Spring 2020. It is a processed recording. The lecture was taught from Sakai, and not from my recitation notes page. If you have time, you might want to watch some or all of it.
