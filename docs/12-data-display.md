@@ -6,9 +6,11 @@ sidebar_label: 04-09-2021 | Data Display
 
 Everything on this page will be demonstrated in class and the class recording will be posted later in the afternoon.
 
-:::tip Links to Required Tasks
+:::tip Link to Very Specific Steps for Required Tasks
 [Value to Categories](https://ils.unc.edu/courses/2021_spring/inls161_001/12b.02.chart01.html) 
 :::
+
+Below is a general overview of what we are doing.
 
 ## 18-Chart 1 Data: Compare Value to Categories
 
@@ -38,9 +40,11 @@ The most powerful way to do this is counter intuitive: you select more than you 
 3. Name the sheet as directed. Name the tab with the Shorter Name.
 4. Format the chart to personalize the colors, type etc.
 
-:::tip Links to Required Tasks
+:::tip Link to Very Specific Steps for Required Tasks
 [Value Percentages to Categories](https://ils.unc.edu/courses/2021_spring/inls161_001/12b.03.chart02.html) 
 :::
+
+Below is a general overview of what we are doing.
 
 ## 19-Chart 2 Data: Compare Value Percentage to Categories
 
