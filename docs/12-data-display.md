@@ -6,7 +6,11 @@ sidebar_label: 04-09-2021 | Data Display
 
 Everything on this page will be demonstrated in class and the class recording will be posted later in the afternoon.
 
-## 16-Chart 1 Data: Compare Value to Categories
+:::tip Links to Required Tasks
+[Value to Categories](https://ils.unc.edu/courses/2021_spring/inls161_001/12b.02.chart01.html) 
+:::
+
+## 18-Chart 1 Data: Compare Value to Categories
 
 ### Learning objectives: Duplicate Worksheet, Select/Sort Data, Create Chart, remove unneeded data, format chart
 
@@ -34,9 +38,11 @@ The most powerful way to do this is counter intuitive: you select more than you 
 3. Name the sheet as directed. Name the tab with the Shorter Name.
 4. Format the chart to personalize the colors, type etc.
 
+:::tip Links to Required Tasks
+[Value Percentages to Categories](https://ils.unc.edu/courses/2021_spring/inls161_001/12b.03.chart02.html) 
+:::
 
-
-## 17-Chart 2 Data: Compare Value Percentage to Categories
+## 19-Chart 2 Data: Compare Value Percentage to Categories
 
 We will repeat all of the same steps we did in Chart One, but we will have two columns of data instead of one, so we will have to create different type of chart, a **100% Stacked Chart**.  we don&#39;t have to do a sort or a filter.
 
