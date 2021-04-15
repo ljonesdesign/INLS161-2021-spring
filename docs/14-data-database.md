@@ -14,8 +14,14 @@ Before we discuss the VLOOKUP function, we need to be aware of absolute and rela
 
 *It is not necessary to have watched the video to follow along in class.*
 
-:::tip Short version: we must use absolute references in our lookup data range. Excel uses relative references by default. To make a column or row reference absolute, manually place a dollar sign ($) in front of the reference. You may also cycle through the choices by clicking in the formula bar ![formula bar](images/formula-bar.png) and typing ```mac: command + T``` or ```pc: fn + F4```.  
-<br>See Table 1 for examples.
+:::tip Short version 
+we must use absolute references in our lookup data range. Excel uses relative references by default. To make a column or row reference absolute, manually place a dollar sign ($) in front of the reference. You may also cycle through the choices by clicking in the formula bar
+
+![formula bar](/img/formula-bar.png) 
+
+and typing ```mac: command + T``` or ```pc: fn + F4```.  
+
+See Table 1 for examples.
 :::
 
 **Table 1**
@@ -26,13 +32,9 @@ Relative Reference: | A2  | None; default in Excel
 Absolute Reference: | <b>$</b>A<b>$</b>2 |  enter dollar sign in front of column <b>and</b> row reference
 Mixed Reference: | <b>$</b>A2 or A<b>$</b>2 | enter dollar sign in front of column <b>or</b> row reference
 
-
-
 ## VLOOKUP Demo
 
 Here is an excel file you can download if you want to follow along in class: [VLOOKUP Examples](https://github.com/ljonesdesign/161-recitations/raw/master/docs/files/jones-vlookup-examples-v2.xlsx). I put in some Star Wars and Harry Potter data to make it a little more fun. We will practice this a lot.
-
-With all that practice, you can now go download the file for your [VLOOKUP task](https://github.com/ljonesdesign/161-recitations/raw/master/docs/files/spreadsheets.vlookup-example.xlsx) and get in done in a minute.
 
 ## SQL
 
