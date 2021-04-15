@@ -4,7 +4,7 @@ sidebar_label: Presentation Finals
 ---
 
 :::note
-Presentations task due during final exam time corresponding to your recitation schedule.
+Presentation project is due during final exam time corresponding to your recitation schedule.
 :::
 
 section     |                                        | at           | day       | date
@@ -20,4 +20,4 @@ your presentation skills.
 
 There is no additional work necessary for the final exam period. Attendance will be taken for the final exam for UNC administration purposes. If you are unable to attend any exam due to your schedule, please contact me prior the end of the semester.
 
-If you are not able to attend your scheduled exam, you may attend any of the following.
+If you are not able to attend your scheduled exam, you may attend an alternate session.
