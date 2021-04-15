@@ -3,6 +3,12 @@ title: Spreadsheet Intro
 sidebar_label: 04-02-2021 | Data Intro
 ---
 
+:::note 
+[Download and **use this Gradesheet as a checklist** before submitting full project to SAKAI on April 26 at 11:55 p.m.](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/materials/04/task04.gradesheet.xlsx) *This sheet covers all sessions and is repeated at the top of each session:* 04/02, 04/09, 04/16, & 04/23
+:::
+
+*This class was not recorded as it was a holiday. The flipped class recorded session is below.*
+
 :::tip Links to Required Tasks 
 [setting up a worksheet](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html) | [setting up a workbook](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.02.workbook.html) | [other tools](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.03.other-tools.html) | [functions, formulas, formatting](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.04.formulas.html)
 :::
