@@ -4,7 +4,7 @@ sidebar_label: 04-23-2021 | Relational Databases
 ---
 
 :::note 
-[Download and **use this Gradesheet as a checklist** before submitting full project to SAKAI on April 26 at 11:55 p.m.](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/materials/04/task04.gradesheet.xlsx) *This sheet covers all sessions and is repeated at the top of each session:* 04/02, 04/09, 04/16, & 04/23
+[Download and **use this Gradesheet as a checklist** before submitting full project to SAKAI by April 26 at 11:55 p.m.](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/materials/04/task04.gradesheet.xlsx) *This sheet covers all sessions and is repeated at the top of each session:* 04/02, 04/09, 04/16, & 04/23
 :::
 
 # Databases
