@@ -53,3 +53,5 @@ Filters are powerful. Do another one:
 
 Too much detail on this page to condense here so here is the link to the [Pivot Table Task on Class Web Page](https://ils.unc.edu/courses/2021_spring/inls161_001/13b.03.pivot-tables.html)
 
+Mac Users may benefit from looking at these few slides &raquo; [Mac pivot table filter set as (blank)](https://docs.google.com/presentation/d/1ggg8vElrRyAE5l3aroX0-GyPxaZa4AbUOmmpP684b5Q/edit?usp=sharing) &laquo; for the last step in setting up the filter for showing blanks.
+
