@@ -3,11 +3,13 @@ title: Spreadsheet Intro
 sidebar_label: 04-02-2021 | Data Intro
 ---
 
+*This class was not recorded as it was a holiday. This is a class from a previous semester.*
+
+<div class='embed-container'><iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9c61229e-81f0-4bcb-8dc3-ac520137a074&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
+
 :::note 
 [Download and **use this Gradesheet as a checklist** before submitting full project to SAKAI by April 26 at 11:55 p.m.](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/materials/04/task04.gradesheet.xlsx) *This sheet covers all sessions and is repeated at the top of each session:* 04/02, 04/09, 04/16, & 04/23
 :::
-
-*This class was not recorded as it was a holiday. The flipped class recorded session is below.*
 
 :::tip Links to Required Tasks 
 [setting up a worksheet](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.01.formatting.html) | [setting up a workbook](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.02.workbook.html) | [other tools](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.03.other-tools.html) | [functions, formulas, formatting](https://ils.unc.edu/courses/2021_spring/inls161_001/11b.04.formulas.html)
@@ -24,8 +26,6 @@ It may not be necessary to use the password to download the source file. I think
 :::
 
 Here is a link to [download the Powerpoint Used in Video](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/misc-screenshots/formatting-functions-formulas.pptx)
-
-<div class='embed-container'><iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9c61229e-81f0-4bcb-8dc3-ac520137a074&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
 
 :::tip Search a Panopto Video
 At the bottom of a panopto embed is an arrow. Click that arrow and then you can do a search for anything in particular. Below is a screen shot of performing a search on "hide"
