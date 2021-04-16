@@ -4,13 +4,11 @@ sidebar_label: 04-09-2021 | Data Display
 
 ---
 
+[08:00 Class Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01d4915a-d8ae-4a4b-94b4-ad0500e9198e) | [10:10 Class Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d5ae270-f3e4-4bdd-ae73-ad050102e195)
+
 :::note 
 [Download and **use this Gradesheet as a checklist** before submitting full project to SAKAI by April 26 at 11:55 p.m.](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/materials/04/task04.gradesheet.xlsx) *This sheet covers all sessions and is repeated at the top of each Data session:* 04/02, 04/09, 04/16, & 04/23
 :::
-
-[08:00 Class Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01d4915a-d8ae-4a4b-94b4-ad0500e9198e) | [10:10 Class Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d5ae270-f3e4-4bdd-ae73-ad050102e195)
-
-*class recording has been posted to Panopto*
 
 :::tip Link to Very Specific Steps for Required Tasks
 Class website link: [Value to Categories](https://ils.unc.edu/courses/2021_spring/inls161_001/12b.02.chart01.html) 
