@@ -59,29 +59,36 @@ For example, if you used SQL to find all book titles in a book database that con
 
 1. If you looked in a full output from the author table you would not find any titles:
 
-    * [tblAuthor](https://trianglewebs.com/book-database/tblAuthor.php)
+    * [tblAuthor](https://lawrencejones-lblakej.cloudapps.unc.edu/book-database/tblAuthor.php) @ CarolinaCloudApps
+    * [tblAuthor](https://trianglewebs.com/book-database/tblAuthor.php) @ backupsite
+   
     * In this output, you only have the results, so you don't even know what the column name is for the author.
 
 2. Nor would you find the title in a full output of the publisher table:
-
-    * [tblPublisher](https://trianglewebs.com/book-database/tblPublisher.php)
+    * [tblPublisher](https://lawrencejones-lblakej.cloudapps.unc.edu/book-database/tblPublisher.php) @ CarolinaCloudApps
+    * [tblPublisher](https://trianglewebs.com/book-database/tblPublisher.php) @ backupsite
 
 3. If you looked in the book table you would finally find the listed titles:
 
-    * [tblBook](https://trianglewebs.com/book-database/tblBook.php)
+    * [tblBook](https://lawrencejones-lblakej.cloudapps.unc.edu/book-database/tblBook.php) @ CarolinaCloudApps
+    * [tblBook](https://trianglewebs.com/book-database/tblBook.php) @ backupsite
     * However, you should not trust that the html headings are the actual database field (column) names. They might just be labels. One clue that they are not
     trustworthy is that some of the headers contain spaces: ```LOC Number``` and ```Pub FK```. Notice that the SELECT statement example
     is looking for ```column1, column2```. When you named your table in your VLOOKUP exercise, Excel would not allow you to put in a space or a hyphen. **It would allow an underscore.** Underscores are very common in Database column names.
 
     TLDR; the actual field name for the book title is ```tblBook_Title```.
 
-4. Here is a [link to a reference page](https://trianglewebs.com/book-database/index.php) to our book database. Here you can find all of the tables and all of the column heads ("field names" are more appropriate when discussing databases.)
+4. Here is a 
+     * [link to a reference page](https://lawrencejones-lblakej.cloudapps.unc.edu/book-database/index.php) @ CarolinaCloudApps
+     * [link to a reference page](https://trianglewebs.com/book-database/index.php) @ backupsite
+     
+   to our book database. Here you can find all of the tables and all of the column heads ("field names" are more appropriate when discussing databases.)
 
 5. The reference page has a lot of information that will help you get started with writing your own SQL statements. I will demo several in class. There is a cut and paste example that you can use to find titles that contain the word `freedom`.
 
 ## SQL Tasks
 
-*This will require you to have the [help page](https://trianglewebs.com/book-database/index.php) open in a window, the [SQL entry page](https://trianglewebs.com/book-database/sql-entry.php) open in a window and this page open in a window.*
+*This will require you to have the [help page](https://lawrencejones-lblakej.cloudapps.unc.edu/book-database/index.php) open in a window, the [SQL entry page](https://lawrencejones-lblakej.cloudapps.unc.edu/book-database/sql-entry.php) open in a window and this page open in a window.*
 
 ### Create three SQL queries
 
