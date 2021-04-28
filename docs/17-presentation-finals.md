@@ -7,12 +7,12 @@ sidebar_label: Presentation Finals
 Presentation project is due during final exam time corresponding to your recitation schedule.
 :::
 
-section     |                                        | at           | day       | date
----         | ---                                    |---           |---        |---
-INLS161-601 | will do presentations as final exam at | 1600-1900 on | Tuesday   | 11 May 2020
-INLS161-602 | will do presentations as final exam at | 1600-1900 on | Tuesday   | 11 May 2020
-INLS161-603 | will do presentations as final exam at | 0800-1100 on | Friday    | 07 May 2020
-INLS161-604 | will do presentations as final exam at | 0800-1100 on | Saturday  | 08 May 2020
+section     |                                     | at           | day       | date
+---         | ---                                 |---           |---        |---
+INLS161-601 | will do presentations as final exam | 1600-1900 on | Tuesday   | 11 May 2020
+INLS161-602 | will do presentations as final exam | 1600-1900 on | Tuesday   | 11 May 2020
+INLS161-603 | will do presentations as final exam | 0800-1100 on | Friday    | 07 May 2020
+INLS161-604 | will do presentations as final exam | 0800-1100 on | Saturday  | 08 May 2020
 
 
 The exam session will be used to view your classmate's presentations. This is a valuable class for solidifying
