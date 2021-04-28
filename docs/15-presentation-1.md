@@ -34,10 +34,10 @@ Failure to follow the grading rubric might result in a poor grade even if you ar
 
 1. Choose a theme that works with your topic. **Something New** grade means you have changed a theme that no longer is recognizable as a common PowerPoint theme or a [popular slidesgo theme](https://slidesgo.com). I will demo some very simple strategies on how to do this. 
     * Some PowerPoint or Slidesgo templates are very heavy on custom graphics. If you are depending too much on custom graphics, that are not your own, that is not necessarily a problem, but I am more impressed with your own images, or carefully curated images from the web, that represent your unique story. For example, the first time a saw a slidesgo slide submission, I thought it was **AMAZING**. I gave it a high "something new" grade. However, about an hour later, I saw another presentation that looked **exactly the same** with **all the same** graphics, colors, and fonts. On that second submission the student credited SlidesGo for the theme and illustrations. The first student did not credit anything. I went from "this is AMAZING" to "ummm-Not-So-Amazing-at-least-one-of-them-gave-credit." Then I realized that I was being way too judgemental, and I let it go. The point is this: 
-        1. people value originality.
-        2. people value honesty. 
-        3. artistic borrowing is sometimes very cool but not always 
-        4. so be careful to credit your work if it could be construed that you are "borrowing too much." It protects your "general integrity." FWIW, I prefer [this highy similar, but legal, cover](https://www.youtube.com/watch?v=J61mtatKT1I) more than the orignal.
+     1. people value originality.
+     2. people value honesty. 
+     3. artistic borrowing is sometimes very cool but not always 
+     4. so be careful to credit your work if it could be construed that you are "borrowing too much." It protects your "general integrity." FWIW, I prefer [this highy similar, but legal, cover](https://www.youtube.com/watch?v=J61mtatKT1I) more than the orignal. This [one is more original, and more fun, tho...](https://www.youtube.com/watch?v=wbsEZzgCwmI)
     * If you are concerned about this part of your grade, just clear it with me first, and we can make sure you can get the something new points. 
     * There are no resubmits on this project after the due date. However, You may get all the presubmission feedback you desire. 
 2. Put in the first slide notes why you chose your theme. (*This is a good choice for my topic because...*)
