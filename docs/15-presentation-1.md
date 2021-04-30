@@ -3,6 +3,9 @@ title: Presentation Design & Delivery
 sidebar_label: 04-30-2021 | Presentation 1
 ---
 
+[08:00 Class Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fd398b0-4818-41d6-902f-ad1a00e8ba37) | [10:10 Class Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=433d7974-96f9-4df4-94ae-ad1a010a44c0)
+
+
 :::note
 Carefully following the grading rubric allows you to do very well on this project even if being creative is challenging for you.
 There is an expanded checklist below. Make sure to download the [Excel grade sheet for point values](https://sakai.unc.edu/access/content/attachment/8f9c1dbd-3e27-400a-bdae-29608fa12361/Assignments/e5499e5d-2705-4760-9c56-4fc4ee0561fd/task05.gradesheet.xlsx) This file contains points for both sessions.
