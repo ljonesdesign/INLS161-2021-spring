@@ -28,7 +28,7 @@ Your presentation should also be able to function as if you were presenting it l
 Failure to follow the grading rubric might result in a poor grade even if you are an exceptionally good designer and storyteller. **Takeaway: Don't assume that your advanced presentation skills will hit everything on the rubric. Read the requirements in the checklist.**
 :::
 
-[Getting Started Demo (I will demo in class if you want to download)](https://github.com/ljonesdesign/161-recitations/raw/master/docs/files/printmakers-draft-presentation.pptx)
+[Getting Started Demo (I will demo in class if you want to download)](https://github.com/ljonesdesign/161-recitations/raw/master/docs/files/printmakers-draft-presentation-05-2021.pptx)
 
 ## Checklist
 
