@@ -8,7 +8,7 @@ sidebar_label: 04-30-2021 | Presentation 1
 
 :::note
 Carefully following the grading rubric allows you to do very well on this project even if being creative is challenging for you.
-There is an expanded checklist below. Make sure to download the [Excel grade sheet for point values](https://sakai.unc.edu/access/content/attachment/8f9c1dbd-3e27-400a-bdae-29608fa12361/Assignments/e5499e5d-2705-4760-9c56-4fc4ee0561fd/task05.gradesheet.xlsx) This file contains points for both sessions.
+There is an expanded checklist below. Make sure to download the [Excel grade sheet for point values](https://sakai.unc.edu/access/content/group/c133eae3-71e7-47b0-be54-567e2a25f167/misc-screenshots/task05grades.xlsx) This file contains points for both sessions.
 :::
 
 ### Task
